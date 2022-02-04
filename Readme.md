@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/stars/MoTechYT/Pro-Auto-Filter-Bot-V2?style=social">
 
   </a>
-  
+ ,
   <a href="https://github.com/Rippo123/Pro-Auto-Filter-Bot-V2/fork">
     <img src="https://img.shields.io/github/forks/MoTechYT/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
 
@@ -22,7 +22,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Rippo123/Pro-Auto-Filter-Bot-V2
+<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2
   <img src="https://www.herokucdn.com/deploy?template=https://github.com/Rippo123/Pro-Auto-Filter-Bot-V2/button.svg" alt="Deploy">
 </a>
 </p>
